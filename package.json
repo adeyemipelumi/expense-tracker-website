@@ -11,6 +11,7 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider next dev",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
